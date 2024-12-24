@@ -52,3 +52,5 @@ Our project consists of multiple repositories, each playing a crucial role in th
 - [**`tracers.*`**](https://github.com/search?q=topic%3Avisualization-library+org%3Aalgorithm-visualizer&type=Repositories) are visualization libraries written in each supported language. They extract visualizing commands from code.
 
 Ready to contribute? Explore the repositories and become part of the Algorithm Visualizer community!
+
+made changes
